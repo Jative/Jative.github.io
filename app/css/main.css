@@ -1,0 +1,172 @@
+@font-face{
+    font-family: Roboto;
+    src: url("../fonts/Roboto-Regular.ttf");
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+    box-sizing: border-box;
+}
+html, body, main {
+    height: 100%;
+}
+#first {
+    height: 100%;
+    background-image: url("../images/Артемий31.png");
+    background-position: center;
+    background-size: cover;
+}
+#second {
+    height: 100%;
+    background-color: #3c3c3c;
+}
+#thrid {
+    height: 100%;
+    background-color: #d1d1d1;
+}
+#four {
+    height: 200%;
+    background-color: #3c3c3c;
+}
+#tour {
+    text-align: center;
+    color: #dedede;
+    padding-top: 200px;
+    font-size: 100px;
+}
+#text-blocke {
+    widht: 40%;
+    height: 40%;
+    margin-left: 400px;
+    margin-top: 200px;
+    color: #424242;
+    line-height: 0.9;
+}
+#first-line {
+    text-align: center;
+    width: 40%;
+    height: 40%;
+    margin-left: 450px;
+    margin-top: 180px;
+    font-size: 50px;
+    opacity: 1;
+    letter-spacing: 3px;
+    color: #523332;
+}
+#second-line_blocke {
+    margin-top: -500px;
+    margin-right: 30px;
+
+    text-align: right;
+    opacity: 1px;
+    font-size: 40px;
+    color: #dedede;
+}
+#thrid-line_blocke {
+    margin-top: -600px;
+    margin-left: 200px;
+    opacity: 1px;
+    font-size: 40px;
+    color: #3c3c3c;
+}
+#golant {
+    margin-top: 20px;
+    margin-left: 400px;
+    opacity: 75%;
+    font-size: 25px;
+    color: #494949;
+}
+#М239 {
+    margin-top: 40px;
+    margin-left: 400px;
+    opacity: 75%;
+    font-size: 50px;
+    color: #494949;
+}
+#second-line {
+    margin-top: 40px;
+    margin: right;
+    margin-left: 1100px;
+    opacity: 1px;
+    font-size: 50px;
+    color: #494949;
+}
+#third-line {
+    margin-top: 10px;
+    margin-left: 200px;
+    text-align: left;
+    margin: center;
+    color: #494949;
+    font-size: 25px;
+}
+#biz {
+    margin-top: -1350px;
+    margin: center;
+    font-size: 190px;
+    text-align: center;
+    margin: center;
+    color: #dedede;
+}
+#first-image {
+    height: 695px;
+    width: auto;
+    margin-left: 0px;
+
+}
+#second-image {
+    height: 695px;
+    width: auto;
+    margin-left: 1055px;
+
+}
+#right-image {
+    height: 100px;
+    width: auto;
+    margin-left: -180px;
+    margin-top: 40px;
+}
+#Artem {
+    height: 270px;
+    width: auto;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#Artemiy {
+    height: 270px;
+    width: auto;
+    margin-left: 1050px;
+    margin-top: -9010px;
+}
+#six {
+    height: 100%;
+    background-color: #d1d1d1;
+}
+#six-line {
+    margin-top: -600px;
+    margin-left: 50px;
+    text-align: left;
+    margin: center;
+    color: #3c3c3c;
+    font-size: 25px;
+}
+#seven {
+    background-color:#3c3c3c;
+    height: 100%;
+
+
+}
+#yzyzyyzy {
+    margin-top: -680px;
+    margin-right: 100px;
+    text-align: right;
+    margin: center;
+    color:#dedede ;
+    font-size: 21px;
+}
+#last {
+    height: 100%;
+    background-image: url("../images/DSC_8587.jpg");
+    background-position: center;
+    background-size: cover;
+}
